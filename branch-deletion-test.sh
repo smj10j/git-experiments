@@ -2,7 +2,7 @@
 
 
 function title() {
-    echo "\e[1;32m$1\e[0m"
+    echo "\e[32m$1\e[0m"
 }
 
 
